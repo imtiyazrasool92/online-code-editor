@@ -1,0 +1,28 @@
+.back{
+    background-color: white;
+    width: 100vw;
+    height: 100vh;
+    overflow: scroll;
+}
+.header{
+    font-size: 30px;
+    color : #5E17EB;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.top_panel{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.list_object{
+    background: black;
+    color : white;
+    margin: 5px;
+    padding: 5px;
+    font-size: 20px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 3px 0px #5E17EB;
+    display: flex;
+    justify-content: space-evenly;
+}
